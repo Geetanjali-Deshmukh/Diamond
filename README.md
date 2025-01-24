@@ -1,0 +1,2 @@
+# Diamond
+Start Diamond Print
